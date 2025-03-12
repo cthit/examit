@@ -1,0 +1,13 @@
+.searchcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+.searchtitle {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}

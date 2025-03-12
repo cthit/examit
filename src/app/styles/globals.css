@@ -1,0 +1,19 @@
+:root {
+  --bg-color: #282828;
+  --surface-color: #121826;
+  --text-color: #e4eaf1;
+  --text-muted: #a8b2c8;
+  --primary-blue: #1e5eff;
+  --accent-blue: #4d9fff;
+  --border-color: #1c2536;
+  --hover-blue: #3e6ae1;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-geist-sans);
+  -webkit-font-smoothing: antialiased;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  height: 100%;
+}

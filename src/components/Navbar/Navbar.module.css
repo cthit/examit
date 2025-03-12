@@ -1,0 +1,39 @@
+.navroot {
+  background-color: #121212;
+  color: white;
+  padding: 1rem 1.5rem;
+  margin: 0;
+}
+
+.navcontainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.navtitle {
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 0.3rem;
+  color: #4bd3de;
+}
+
+.navlinks {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.navlinks a {
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease-in-out;
+}
+
+.navlinks a:hover {
+  color: #aaa;
+}

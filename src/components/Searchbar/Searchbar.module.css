@@ -1,0 +1,8 @@
+.searchbar {
+  width: 40%; /* Makes the input field fill the container */
+  padding: 10px; /* Adds padding inside the search input */
+  font-size: 1rem; /* Sets the font size */
+  height: 20px; /* Sets the height of the search bar */
+  border: 2px solid #ccc; /* Adds a border */
+  border-radius: 5px; /* Rounds the corners */
+}
